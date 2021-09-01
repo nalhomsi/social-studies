@@ -1,5 +1,5 @@
 {
-  "name": "social-media-api",
+  "name": "social-studies",
   "version": "1.0.0",
   "description": "An API for a social media app built with Express, Mongoose, and MongoDB",
   "main": "index.js",
