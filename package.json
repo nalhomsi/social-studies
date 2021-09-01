@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vanessalane/social-media-api.git"
+    "url": "git+https://github.com/nalhomsi/social-studies.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vanessalane/social-media-api/issues"
+    "url": "https://github.com/nalhomsi/social-studies/issues"
   },
-  "homepage": "https://github.com/vanessalane/social-media-api#readme",
+  "homepage": "https://github.com/nalhomsi/social-studies#readme",
   "dependencies": {
     "express": "^4.17.1",
     "moment": "^2.29.0",
