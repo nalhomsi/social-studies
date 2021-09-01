@@ -1,4 +1,4 @@
-# social-studies
+# Social Studies - A Social Media Site
 
 A social media site built with a NoSQLP API that utilizes Express, Mongoose, and MongoDB. 
 The administrator is able to create, update, and delete users and thoughts, as well as create and delete reactions.
