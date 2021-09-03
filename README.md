@@ -5,7 +5,7 @@ The administrator is able to create, update, and delete users and thoughts, as w
 
 #Preview
 
-
+![preview](https://user-images.githubusercontent.com/80538653/131931585-3932b793-d87a-4e32-b045-d624d801e170.jpg)
 
 #Run
 
